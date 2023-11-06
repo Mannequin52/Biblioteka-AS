@@ -1,0 +1,13 @@
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\bin\Debug\Biblioteka-AS.exe.config
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\bin\Debug\Biblioteka-AS.exe
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\bin\Debug\Biblioteka-AS.pdb
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka-AS.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka-AS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka_AS.Form1.resources
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka_AS.Knjiga.resources
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka_AS.Korisnik.resources
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka_AS.Properties.Resources.resources
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka-AS.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka-AS.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka-AS.exe
+C:\Users\ucenik\Documents\Biblioteka-AS\Biblioteka-AS\obj\Debug\Biblioteka-AS.pdb
